@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- colors for general appearance -->
+  <color name="colorPrimary">#202020</color>
+  <color name="colorPrimaryDark">#000000</color>
+  <color name="colorPrimaryLight">#C5CAE9</color>
+  <color name="colorAccent">#152485</color>
+
+  <color name="colorCardView">#3F3A3A</color>
+
+  <!-- colors for task priority selection -->
+  <color name="materialRed">#F5220A</color>
+  <color name="materialOrange">#F77F11</color>
+  <color name="materialYellow">#FDC717</color>
+
+</resources>
